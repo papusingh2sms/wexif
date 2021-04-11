@@ -48,6 +48,14 @@
 #### Begin of code  ##############################################################
 ##################################################################################
 
+which exif &> /dev/NULL
+if [[ $? -gt "0" ]]; then
+   printf "%s\n" "This tool require 'exif' to be installed"
+   exit 1
+fi
+
+
+
 banner() {
 cat <<EOF
 
