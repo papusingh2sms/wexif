@@ -36,11 +36,11 @@
 #### the filelist in ./sec-us-archive.txt                                     ####
 ####                                                                          ####
 #### Author:  wuseman                                                         ####
-#### Contact: info@sendit.nu                                                  ####
+#### Contact: wuseman@nr1.nu                                                  ####
 #### IRC:     wuseman @ Freenode.com                                          ####
 #### Distro:  This script has been tested on: Gentoo / Raspian(Debian)        ####
 ####                                                                          ####
-#### Usage:   bash wus-exif.sh                                                ####
+#### Usage:   bash wexif.sh --help                                            ####
 ####                                                                          ####
 #### Enjoy another awesome 'bash' script from wuseman. Questions? Conact me!  ####
 ####                                                                          ####
